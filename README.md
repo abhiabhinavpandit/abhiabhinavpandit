@@ -6,6 +6,7 @@ Aspiring **Cybersecurity Professional** specializing in **VAPT, Web Application 
 
 ### 🛡️ Core Focus & Security Domains
 - **Vulnerability Assessment & Penetration Testing (VAPT)** & **WAPT**
+- **Web Red Teaming & Offensive Security**
 - **Network Security & Defense**
 - **Cyber & IT Risk Assessment**
 - **Threat Management**
@@ -20,6 +21,7 @@ Aspiring **Cybersecurity Professional** specializing in **VAPT, Web Application 
 ---
 
 ### 📜 Certifications & Learning Pathways
+- **CyberWarfare Labs:** Certified Web Red Team Analyst (WEB-RTA)
 - **Cisco:** Networking Basics | Network Support and Security
 - **TryHackMe:** Jr. Pentester | Web Fundamentals | Pre-Security | Complete Beginner
 
@@ -31,5 +33,5 @@ Aspiring **Cybersecurity Professional** specializing in **VAPT, Web Application 
 ---
 
 ### 📫 Connect With Me
-- **LinkedIn:** [Abhinav Kumar](https://www.linkedin.com/in/abhinav-kumar-1502b4352)
+- **LinkedIn:** [Abhinav Kumar](https://www.linkedin.com/in/abhinav-kumar-50b387258/)
 - **Email:** abhinavpandit527@gmail.com
